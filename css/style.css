@@ -107,7 +107,7 @@ body, html {
 	background: linear-gradient(45deg, #6DF1FE, #FD4EE7, #8447FC); 
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent; 
-	line-height: 1.3;
+	line-height: 1.3; 
 }
 
 .description p {
